@@ -1,6 +1,7 @@
 {
   "name": "jquery-placeholder2",
-  "version": "2.0.9",
+  "version": "2.0.10",
+  "main": "jquery.placeholder.js",
   "dependencies": {
     "jquery": "*"
   }
